@@ -48,20 +48,20 @@ http://www.sitepoint.com/author/mchan/
 * jQuery API Documentation https://api.jquery.com/ 
 
 ### GitHub/Git
-* GitHub Training - wheelhouse.io
-Welcome to your GitHub training. The course you are about to experience will interact with your GitHub account to provide real time feedback on activities. 
-https://learn.wheelhouse.io/sign_in
+* GitHub Training - wheelhouse.io </br>
+Welcome to your GitHub training. The course you are about to experience will interact with your GitHub account to provide real time feedback on activities. </br>
+(https://learn.wheelhouse.io/sign_in)
 
-* Learn Git - command line tutorial
-This is the one on FCC. It uses the command line but gives you step by step instructions
+* Learn Git - command line tutorial </br>
+This is the one on FCC. It uses the command line but gives you step by step instructions </br>
 http://www.freecodecamp.com/challenges/waypoint-save-your-code-revisions-forever-with-git
 
-* git - the simple guide
-quick run-through of the most common commands
+* git - the simple guide </br>
+quick run-through of the most common commands </br>
 http://rogerdudler.github.io/git-guide/
 
-* Git Guide/Reference
-If you've started using Git but need a nice reference, this pretty nice. Clean design and to the point.
+* Git Guide/Reference </br>
+If you've started using Git but need a nice reference, this pretty nice. Clean design and to the point. </br>
 https://www.atlassian.com/git/tutorials
 
 ## Visual web design / graphic design
@@ -75,8 +75,8 @@ https://www.atlassian.com/git/tutorials
 #### Lists of Resources
 
  
-* React Resources: 
-A collection of awesome React tools, resources, videos and shiny things. 
+* React Resources:</br>
+A collection of awesome React tools, resources, videos and shiny things. </br>
 https://meanstack.co/react-js/react-js-libraries/
 
 * How do I get started with Node.js?
